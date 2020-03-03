@@ -11,10 +11,6 @@
 
 !define TECHN_FONT_SIZE 12
 
-' skinparam defaultTextAlignment center
-
-skinparam maxMessageSize 150
-
 skinparam rectangle {
     StereotypeFontSize 12
     shadowing false
